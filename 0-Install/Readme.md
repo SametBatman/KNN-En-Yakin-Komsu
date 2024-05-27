@@ -20,3 +20,12 @@ Python sürümünün doğru şekilde kurulduğunu gösteren bir mesaj görmelisi
 
 #KNN İçin Gerekli Paket ve Kütüphanelerin Kurulumu
 
+K-En Yakın Komşu (KNN) algoritmasını kullanmak için genellikle scikit-learn kütüphanesi kullanılır. Bu kütüphane, Python'da makine öğrenimi modelleri oluşturmak için yaygın olarak kullanılan bir kütüphanedir ve KNN gibi çeşitli algoritmaları içerir.
+
+pip install scikit-learn
+
+Bu komut, Python'un pip paket yöneticisi aracılığıyla scikit-learn kütüphanesini indirir ve kurar. Bu kütüphane, KNN modelini oluşturmak ve eğitmek için gerekli olan tüm işlevleri sağlar.
+
+Ek olarak genellikle veri manipülasyonu ve görselleştirmesi için pandas ve matplotlib gibi başka kütüphaneler de kullanılır. Bunları da yüklemek istiyorsanız, aşağıdaki komutları kullanabilirsiniz:
+
+pip install pandas matplotlib
