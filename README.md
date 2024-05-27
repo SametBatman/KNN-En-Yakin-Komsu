@@ -1,11 +1,7 @@
-# Samet Batman - Makine Öğrenmesi Projeleri
+# Samet Batman 200757051 - Makine Öğrenmesi Projeleri
 
 Merhaba! Ben Samet Batman. Bilgisayar Mühendisliği öğrencisiyim ve makine öğrenmesi konusuna büyük bir ilgi duyuyorum. Bu GitHub sayfasında, makine öğrenmesi ile ilgili çalışmalarımı ve projelerimi paylaşıyorum.
 
-## Hakkımda
-- **Ad**: Samet Batman
-- **Bölüm**: Bilgisayar Mühendisliği
-- **İlgi Alanları**: Makine Öğrenmesi, Derin Öğrenme, Veri Bilimi
 
 ## Proje İçeriği
 Bu projede, makine öğrenmesi algoritmalarından biri olan **K-Nearest Neighbors (KNN)** algoritması hakkında detaylı açıklamalar ve uygulama örnekleri bulacaksınız. KNN algoritmasının temellerinden başlayarak, nasıl çalıştığı, avantajları ve dezavantajları ile ilgili bilgiler vereceğim. Ayrıca, Python dilinde KNN algoritmasını uygulayan kod örneklerini ve veri setleri ile ilgili çalışmaları paylaşacağım.
@@ -28,4 +24,4 @@ Eğer herhangi bir sorunuz veya öneriniz olursa, benimle iletişime geçmekten 
 - **E-posta**: softwarefade@gmail.com
 - **LinkedIn**: [Samet Batman](https://www.linkedin.com/in/samedbatman/)
 
-Bu sayfayı ziyaret ettiğiniz için teşekkür ederim. Makine öğrenmesi konusunda birlikte daha fazla şey öğrenmeyi dört gözle bekliyorum!
+Bu sayfayı ziyaret ettiğiniz için teşekkür ederim.
