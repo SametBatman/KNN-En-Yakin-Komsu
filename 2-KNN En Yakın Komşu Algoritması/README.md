@@ -2,7 +2,7 @@
 KNN (K-Nearest Neighbors, En Yakın K Komşu) algoritması, gözetimli öğrenme (supervised learning) yöntemlerinden biridir ve hem sınıflandırma (classification) hem de regresyon (regression) problemlerinde kullanılır. 
 KNN, bir veri noktasının sınıfını veya değerini belirlerken, o noktaya en yakın 𝐾 komşusunu dikkate alır.
 
-Temel Prensipler:
+**Temel Prensipler:**
 Mesafe Ölçümü: KNN, genellikle veri noktaları arasındaki mesafeyi ölçmek için Öklidyen mesafeyi kullanır. Ancak, Manhattan veya Minkowski mesafeleri gibi diğer mesafe ölçümleri de kullanılabilir.
 K Parametresi: 
 𝐾
