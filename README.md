@@ -1,33 +1,27 @@
-# KNN-En-Yakin-Komsu
-KNN En Yakin Komsu Algoritması
+# Samet Batman 200757051 - Makine Öğrenmesi Projeleri
 
-K-Nearest Neighbors (KNN) Algoritması
-KNN Nedir?
-K-Nearest Neighbors (KNN), hem sınıflandırma hem de regresyon problemlerinde kullanılan, denetimli bir öğrenme algoritmasıdır. KNN algoritması, bir veri noktasının sınıfını veya değerini tahmin etmek için en yakın komşularının etiketlerini veya değerlerini kullanır. Algoritma, eğitim aşamasında sadece veriyi depolar ve tahmin aşamasında bu veriyi kullanarak yeni veriler için tahminlerde bulunur.
+Merhaba! Ben Samet Batman. Bilgisayar Mühendisliği öğrencisiyim ve makine öğrenmesi konusuna büyük bir ilgi duyuyorum. Bu GitHub sayfasında, makine öğrenmesi ile ilgili çalışmalarımı ve projelerimi paylaşıyorum.
 
-KNN Algoritması Nasıl Çalışır?
-KNN algoritması, aşağıdaki adımları izleyerek çalışır:
 
-Veri Hazırlığı: Veri seti, eğitim ve test seti olarak ikiye ayrılır. Eğitim seti, modelin öğrenmesi için kullanılırken test seti, modelin performansını değerlendirmek için kullanılır.
+## Proje İçeriği
+Bu projede, makine öğrenmesi algoritmalarından biri olan **K-Nearest Neighbors (KNN)** algoritması hakkında detaylı açıklamalar ve uygulama örnekleri bulacaksınız. KNN algoritmasının temellerinden başlayarak, nasıl çalıştığı, avantajları ve dezavantajları ile ilgili bilgiler vereceğim. Ayrıca, Python dilinde KNN algoritmasını uygulayan kod örneklerini ve veri setleri ile ilgili çalışmaları paylaşacağım.
 
-Mesafe Hesaplama: Yeni bir veri noktası ile eğitim veri setindeki tüm veri noktaları arasındaki mesafeyi hesaplar. En yaygın kullanılan mesafe ölçütü Öklidyen mesafedir, ancak Manhattan mesafesi, Minkowski mesafesi gibi diğer ölçütler de kullanılabilir.
+### İçerik Başlıkları
+1. **KNN Algoritması Nedir?**
+2. **KNN Algoritması Nasıl Çalışır?**
+3. **KNN'in Avantajları ve Dezavantajları**
+4. **KNN Uygulama Örnekleri**
+5. **Makine Öğrenmesi ve Derin Öğrenme Arasındaki Farklar**
 
-En Yakın Komşuların Seçimi: Hesaplanan mesafelere göre en yakın k komşuyu seçer. Burada k, önceden belirlenmiş bir sabit sayıdır.
+### Örnek Kod
+Proje kapsamında paylaşacağım örnek kodlar ve veri setleri ile KNN algoritmasının nasıl uygulanacağını adım adım göstereceğim. Örnek olarak, Iris veri seti üzerinde KNN algoritması ile sınıflandırma yapmayı anlatacağım.
 
-Sınıflandırma veya Tahmin:
+### Görsel İçerik
+Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğrenme mimarilerini görselleştiren resimler de paylaşacağım.
 
-Sınıflandırma: En yakın k komşunun sınıflarına göre yeni veri noktasının sınıfını belirler. Genellikle çoğunluk oylaması kullanılır.
-Regresyon: En yakın k komşunun değerlerinin ortalamasını alarak yeni veri noktasının değerini tahmin eder.
-KNN Algoritmasının Özellikleri
-Parametrik Olmayan: KNN, parametrik olmayan bir algoritmadır, yani belirli bir model yapısına bağlı değildir ve herhangi bir dağılım varsayımı gerektirmez.
-Basitlik: Uygulaması kolay ve anlaşılması basit bir algoritmadır.
-Lokal: KNN, lokal olarak veri noktalarının komşuluk ilişkilerine dayanır ve genel bir model oluşturmaz.
-KNN Algoritmasının Avantajları
-Kolay Uygulanabilirlik: Basitliği ve kolay anlaşılabilirliği sayesinde birçok farklı problemde rahatlıkla kullanılabilir.
-Eğitim Hızlıdır: Eğitim aşamasında model sadece veriyi saklar ve öğrenme işlemi yapmaz, bu nedenle eğitim aşaması çok hızlıdır.
-Esneklik: Parametrik olmaması sayesinde çeşitli veri setlerinde esnek bir şekilde kullanılabilir.
-KNN Algoritmasının Dezavantajları
-Hesaplama Maliyeti: Büyük veri setlerinde yavaş çalışabilir, çünkü her yeni veri noktası için tüm veri seti taranmalıdır.
-Bellek Kullanımı: Tüm eğitim verisini saklaması gerektiğinden, bellek kullanımı yüksektir.
-Özellik Ölçeklendirme: Özelliklerin ölçeklendirilmesine duyarlıdır, bu yüzden normalizasyon veya standardizasyon gereklidir.
-Gürültüye Duyarlılık: Gürültülü veri setlerinde performansı düşebilir, çünkü komşuluk ilişkileri gürültüden etkilenebilir.
+## İletişim
+Eğer herhangi bir sorunuz veya öneriniz olursa, benimle iletişime geçmekten çekinmeyin:
+- **E-posta**: softwarefade@gmail.com
+- **LinkedIn**: [Samet Batman](https://www.linkedin.com/in/samedbatman/)
+
+Bu sayfayı ziyaret ettiğiniz için teşekkür ederim.
