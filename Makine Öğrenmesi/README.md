@@ -48,7 +48,7 @@ Derin öğrenme, makine öğrenmesinin bir alt dalıdır ve çok katmanlı yapay
 • Bellek hücreleri içerir.
 
 # Makine Öğrenmesi ve Derin Öğrenme Arasındaki Farklar
-# Veri Miktarı:# 
+# Veri Miktarı:
 • Makine Öğrenmesi: Daha az miktarda veri ile çalışabilir.
 • Derin Öğrenme: Büyük miktarda veri gerektirir.
 
