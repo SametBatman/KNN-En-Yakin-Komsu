@@ -17,3 +17,6 @@ Diğer seçenekleri varsayılan değerlerde bırakabilirsiniz.
 Başlat menüsünü açın ve **"Komut İstemi"**ni arayın.
 Komut isteminde "python3 --version" yazın ve Enter tuşuna basın.
 Python sürümünün doğru şekilde kurulduğunu gösteren bir mesaj görmelisiniz.
+
+#KNN İçin Gerekli Paket ve Kütüphanelerin Kurulumu
+
