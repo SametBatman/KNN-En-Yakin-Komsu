@@ -27,15 +27,21 @@ K Parametresi:
 **Avantajları:** 
 
 •Basit ve Kolay Anlaşılır: KNN, sezgisel olarak anlaşılması kolay ve basit bir algoritmadır.
+
 •Eğitim Süreci Yok: Eğitim aşaması olmadığından dolayı hızlı bir şekilde kullanılabilir.
+
 •Esneklik: Hem sınıflandırma hem de regresyon problemlerinde kullanılabilir.
+
 •Doğruluk: Özellikle iyi ayrılmış veri kümelerinde yüksek doğruluk sağlar.
 
 **Dezavantajları:** 
 
 •Hafıza Kullanımı: Tüm eğitim verisini saklaması gerektiğinden hafıza kullanımı yüksektir.
+
 •Hesaplama Maliyeti: Her bir tahmin için mesafe hesaplaması gerektiğinden, büyük veri kümelerinde yavaş çalışabilir.
+
 •Özellik Ölçeklendirme Gereksinimi: Özelliklerin ölçeklendirilmesi gerekebilir, aksi takdirde mesafe ölçümleri yanıltıcı olabilir.
+
 •Gürültüye Duyarlılık: Gürültülü verilere karşı hassastır ve bu durum doğruluğu olumsuz etkileyebilir.
 
 #KNN Uygulama Örnekleri
