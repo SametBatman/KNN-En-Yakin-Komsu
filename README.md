@@ -25,7 +25,7 @@ Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğre
 
 ## İletişim
 Eğer herhangi bir sorunuz veya öneriniz olursa, benimle iletişime geçmekten çekinmeyin:
-- **E-posta**: samet.batman@example.com
-- **LinkedIn**: [Samet Batman](https://www.linkedin.com/in/samet-batman/)
+- **E-posta**: softwarefade@gmail.com
+- **LinkedIn**: [Samet Batman](https://www.linkedin.com/in/samedbatman/)
 
 Bu sayfayı ziyaret ettiğiniz için teşekkür ederim. Makine öğrenmesi konusunda birlikte daha fazla şey öğrenmeyi dört gözle bekliyorum!
