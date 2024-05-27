@@ -24,3 +24,13 @@ yeni_veri = [yeni_değer1, yeni_değer2, ...]  # Yeni veri noktası bir listeye 
 # Tahmini yazdır
 tahmin = knn.predict(yeni_veri)  # Yeni veri noktası için sınıf tahmini yapılır
 print("Tahmin edilen sınıf:", tahmin)  # Tahmin ekrana yazdırılır
+
+
+'''
+ Bu kod, pandas kütüphanesini kullanarak CSV dosyasından veri okur.
+sklearn.model_selection modülünden train_test_split fonksiyonu ile veriler eğitim ve test kümelerine ayrılır.
+sklearn.neighbors modülünden KNeighborsClassifier sınıfı kullanılarak KNN modeli oluşturulur.
+n_neighbors parametresi, dikkate alınacak en yakın komşu sayısını belirler.
+fit fonksiyonu ile model eğitim kümesi üzerinde eğitilr.
+predict fonksiyonu ile yeni bir veri noktası için sınıf tahmini yapılır.
+'''
