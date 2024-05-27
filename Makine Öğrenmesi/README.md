@@ -1,3 +1,6 @@
+
+![61fbec562cf81f62a255f192_61eeb99a54a67e18ce19d47c_0_nyBFE8lLgr8ePAJ_ (1)](https://github.com/SametBatman/KNN-En-Yakin-Komsu/assets/160470839/aa4e6c52-abbd-484f-ba2e-6e0e6e1b4aeb)
+
 # Makine Öğrenmesi (ML) Nedir?
 Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini sağlayan bir yapay zeka alt dalıdır. Temel amacı, veriden öğrenme ve bu öğrenmeyi kullanarak tahminlerde veya karar verme süreçlerinde bulunmaktır. Makine öğrenmesi algoritmaları, verilere dayalı olarak kalıpları ve ilişkileri keşfetmek için kullanılır ve bu süreçte deneyimle kendini geliştirebilir.
 
