@@ -16,7 +16,7 @@ K Parametresi:
 
 •Komşuların Seçimi: Hesaplanan mesafelere göre en yakın 𝐾 komşu seçilir.
 
-•Karar Verme:
+**Karar Verme**
 
 •Sınıflandırma: En yakın 𝐾 komşu arasındaki çoğunluk sınıfı test veri noktasının sınıfı olarak atanır.
 
