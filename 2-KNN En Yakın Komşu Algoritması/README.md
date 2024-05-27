@@ -23,18 +23,23 @@ K Parametresi:
 •Regresyon: En yakın 𝐾 komşunun ortalama değeri test veri noktasının tahmini değeri olarak atanır.
 
 # KNN'in Avantajları ve Dezavantajları
+
 ** Avantajları:** 
+
 •Basit ve Kolay Anlaşılır: KNN, sezgisel olarak anlaşılması kolay ve basit bir algoritmadır.
 •Eğitim Süreci Yok: Eğitim aşaması olmadığından dolayı hızlı bir şekilde kullanılabilir.
 •Esneklik: Hem sınıflandırma hem de regresyon problemlerinde kullanılabilir.
 •Doğruluk: Özellikle iyi ayrılmış veri kümelerinde yüksek doğruluk sağlar.
+
 ** Dezavantajları:** 
+
 •Hafıza Kullanımı: Tüm eğitim verisini saklaması gerektiğinden hafıza kullanımı yüksektir.
 •Hesaplama Maliyeti: Her bir tahmin için mesafe hesaplaması gerektiğinden, büyük veri kümelerinde yavaş çalışabilir.
 •Özellik Ölçeklendirme Gereksinimi: Özelliklerin ölçeklendirilmesi gerekebilir, aksi takdirde mesafe ölçümleri yanıltıcı olabilir.
 •Gürültüye Duyarlılık: Gürültülü verilere karşı hassastır ve bu durum doğruluğu olumsuz etkileyebilir.
 
 #KNN Uygulama Örnekleri
+
 Örnek 1: Sınıflandırma Problemi (Iris Veri Seti)
 Adım 1: Veri Kümesini Hazırlama
 Iris veri setini kullanarak KNN algoritması ile sınıflandırma yapacağız. Bu veri seti, üç farklı iris çiçeği türünü sınıflandırmak için kullanılır.
