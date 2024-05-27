@@ -43,9 +43,3 @@ K Parametresi:
 •Özellik Ölçeklendirme Gereksinimi: Özelliklerin ölçeklendirilmesi gerekebilir, aksi takdirde mesafe ölçümleri yanıltıcı olabilir.
 
 •Gürültüye Duyarlılık: Gürültülü verilere karşı hassastır ve bu durum doğruluğu olumsuz etkileyebilir.
-
-#KNN Uygulama Örnekleri
-
-Örnek 1: Sınıflandırma Problemi (Iris Veri Seti)
-Adım 1: Veri Kümesini Hazırlama
-Iris veri setini kullanarak KNN algoritması ile sınıflandırma yapacağız. Bu veri seti, üç farklı iris çiçeği türünü sınıflandırmak için kullanılır.
