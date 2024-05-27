@@ -9,15 +9,19 @@ K Parametresi:
 
 # KNN Algoritması Nasıl Çalışır?
 **Adım Adım İşleyiş:**
+
 •Veri Kümesi: Eğitim veri kümesi (training dataset) ve test veri kümesi (test dataset) belirlenir.
 
 •Mesafe Hesaplama: Test veri noktasının, eğitim veri kümesindeki her bir veri noktasına olan mesafesi hesaplanır.
 
 •Komşuların Seçimi: Hesaplanan mesafelere göre en yakın 𝐾 komşu seçilir.
+
 •Karar Verme:
+
 •Sınıflandırma: En yakın 𝐾 komşu arasındaki çoğunluk sınıfı test veri noktasının sınıfı olarak atanır.
-•Regresyon: En yakın 
-𝐾 komşunun ortalama değeri test veri noktasının tahmini değeri olarak atanır.
+
+•Regresyon: En yakın 𝐾 komşunun ortalama değeri test veri noktasının tahmini değeri olarak atanır.
+
 # KNN'in Avantajları ve Dezavantajları
 ** Avantajları:** 
 •Basit ve Kolay Anlaşılır: KNN, sezgisel olarak anlaşılması kolay ve basit bir algoritmadır.
