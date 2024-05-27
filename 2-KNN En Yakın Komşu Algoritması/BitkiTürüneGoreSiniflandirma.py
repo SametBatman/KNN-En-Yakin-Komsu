@@ -34,13 +34,11 @@ print(f'Accuracy: {accuracy * 100:.2f}%')
 
 
 """
-Bu kod örneği, KNN sınıflandırmasını kullanarak bir hastalığın 
-teşhisini koymak için bir veri seti üzerinde çalışır. 
+Bu kod örneği, KNN sınıflandırmasını kullanarak 
 Veri seti, üç farklı çiçek türünü içeren ünlü Iris veri setidir. 
 Veri seti, çiçeklerin dört farklı özelliğini içerir (çiçek boyutları gibi) 
 ve her bir çiçeğin sınıfını (çiçek türünü) belirtir. Kod, veri setini yükler, 
 bağımsız ve bağımlı değişkenleri ayırır, eğitim ve test veri kümelerine ayırır, 
 veriyi ölçeklendirir, KNN sınıflandırma modelini oluşturur, eğitir, test 
-verileri üzerinde tahmin yapar ve doğruluk oranını hesaplar. Bu şekilde, 
-hastalık teşhisi için KNN sınıflandırmasını kullanabiliriz.
+verileri üzerinde tahmin yapar ve doğruluk oranını hesaplar.
 """
