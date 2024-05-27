@@ -36,4 +36,5 @@ sklearn.neighbors modülünden KNeighborsClassifier sınıfı kullanılarak KNN 
 n_neighbors parametresi, dikkate alınacak en yakın komşu sayısını belirler.
 fit fonksiyonu ile model eğitim kümesi üzerinde eğitilr.
 predict fonksiyonu ile yeni bir veri noktası için sınıf tahmini yapılır.
+KNN sınıflandırma algoritmasının temel kullanımını gösterir ,veri setinin özelliklerine dayalı olarak verilerin sınıflandırılması vb.
 '''
