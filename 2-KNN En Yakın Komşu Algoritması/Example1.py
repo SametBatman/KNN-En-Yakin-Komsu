@@ -27,7 +27,10 @@ print("Tahmin edilen sınıf:", tahmin)  # Tahmin ekrana yazdırılır
 
 
 '''
- Bu kod, pandas kütüphanesini kullanarak CSV dosyasından veri okur.
+Tahmin edilen sınıf: 1
+Doğruluk skoru: 0.92
+
+Bu kod, pandas kütüphanesini kullanarak CSV dosyasından veri okur.
 sklearn.model_selection modülünden train_test_split fonksiyonu ile veriler eğitim ve test kümelerine ayrılır.
 sklearn.neighbors modülünden KNeighborsClassifier sınıfı kullanılarak KNN modeli oluşturulur.
 n_neighbors parametresi, dikkate alınacak en yakın komşu sayısını belirler.
