@@ -1,4 +1,4 @@
-#KNN Algoritması Nedir?
+# KNN Algoritması Nedir?
 KNN (K-Nearest Neighbors, En Yakın K Komşu) algoritması, gözetimli öğrenme (supervised learning) yöntemlerinden biridir ve hem sınıflandırma (classification) hem de regresyon (regression) problemlerinde kullanılır. 
 KNN, bir veri noktasının sınıfını veya değerini belirlerken, o noktaya en yakın 𝐾 komşusunu dikkate alır.
 
