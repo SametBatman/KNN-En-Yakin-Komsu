@@ -1,6 +1,7 @@
-Adımlar:
 
-Python'u İndirin:
+# Python Kurulum Rehberi
+
+**Python'u İndirin:**
 
 Resmi Python web sitesine gidin: https://www.python.org/downloads/
 [İşletim sisteminizi] için en son Python 3 sürümünü seçin.
