@@ -30,17 +30,17 @@ Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini s
 • Örnekler: Q-Learning, Deep Q-Networks (DQN).
 
 # Makine Öğrenmesinin Adımları
-Veri Toplama: Makine öğrenmesi için veriler toplanır.
+•Veri Toplama: Makine öğrenmesi için veriler toplanır.
 
-Veri Ön İşleme: Veriler temizlenir ve analize uygun hale getirilir.
+•Veri Ön İşleme: Veriler temizlenir ve analize uygun hale getirilir.
 
-Özellik Seçimi: Modelin eğitimi için önemli özellikler seçilir.
+•Özellik Seçimi: Modelin eğitimi için önemli özellikler seçilir.
 
-Model Eğitimi: Seçilen algoritma ile model eğitilir.
+•Model Eğitimi: Seçilen algoritma ile model eğitilir.
 
-Model Değerlendirme: Modelin performansı test verisi ile değerlendirilir.
+•Model Değerlendirme: Modelin performansı test verisi ile değerlendirilir.
 
-Model İyileştirme: Modelin performansı optimize edilir ve gerekirse yeniden eğitilir.
+•Model İyileştirme: Modelin performansı optimize edilir ve gerekirse yeniden eğitilir.
 
 #Derin Öğrenme (DL) Nedir?
 Derin öğrenme, makine öğrenmesinin bir alt dalıdır ve çok katmanlı yapay sinir ağları kullanarak öğrenme sürecini gerçekleştirir. Derin öğrenme, genellikle büyük veri setleri ve yüksek hesaplama gücü gerektiren karmaşık problemler için kullanılır.
