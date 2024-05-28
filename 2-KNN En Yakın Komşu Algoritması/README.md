@@ -25,6 +25,11 @@ K Parametresi:
 # KNN Algoritması Nasıl Çalışır?
 **Adım Adım İşleyiş:**
 
+•KNN (K-Nearest Neighbors) Algoritması iki temel değer üzerinden tahmin yapar;
+
+•Distance (Uzaklık): Tahmin edilecek noktanın diğer noktalara uzaklığı hesaplanır. Bunun için Minkowski uzaklık hesaplama fonksiyonu kullanılır.
+K (komuşuluk sayısı): En yakın kaç komşu üzerinden hesaplama yapılacağını söyleriz. K değeri sonucu direkt etkileyecektir. K 1 olursa overfit etme olasılığı çok yüksek olacaktır. Çok büyük olursa da çok genel sonuçlar verecektir. Bu sebeple optimum K değerini tahmin etmek problemin asıl konusu olarak karşımızda durmaktadır. K değerinin önemini aşağıdaki grafik çok güzel bir şekilde göstermektedir. Eğer K=3 ( düz çizginin olduğu yer) seçersek sınıflandırma algoritması ? işareti ile gösterilen noktayı, kırmızı üçgen sınıfı olarak tanımlayacaktır. Fakat K=5 (kesikli çizginin olduğu alan) seçersek sınıflandırma algoritması, aynı noktayı mavi kare sınıfı olarak tanımlayacaktır.
+
 •Veri Kümesi: Eğitim veri kümesi (training dataset) ve test veri kümesi (test dataset) belirlenir.
 
 •Mesafe Hesaplama: Test veri noktasının, eğitim veri kümesindeki her bir veri noktasına olan mesafesi hesaplanır.
