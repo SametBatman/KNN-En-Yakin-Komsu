@@ -3,12 +3,19 @@ KNN (K-Nearest Neighbors, En Yakın K Komşu) algoritması, gözetimli öğrenme
 KNN, bir veri noktasının sınıfını veya değerini belirlerken, o noktaya en yakın 𝐾 komşusunu dikkate alır.
 
 # Kullanım Alanları:
+
 •Hastalık tespitleri(örneğin meme kanseri, bununla ilgili script bulunuyor!)
+
 •Müşterinin verilen krediyi ödeyip ödeyemeyeceği (Customer Default Risk)
+
 •Müşterinin aldığı servisi bırakıp bırakmayacağı (Customer Churn)
+
 •Müşteri segmantasyon (Customer Segmantation)
+
 •El yazısı tanıma (Handwriting Recognition)
+
 •Biyometrik tanımlama (Biometric Identification)
+
 
 # Temel Prensipler:
 Mesafe Ölçümü: KNN, genellikle veri noktaları arasındaki mesafeyi ölçmek için Öklidyen mesafeyi kullanır. Ancak, Manhattan veya Minkowski mesafeleri gibi diğer mesafe ölçümleri de kullanılabilir.
