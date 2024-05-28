@@ -19,18 +19,15 @@ Proje kapsamında paylaşacağım örnek kodlar ve veri setleri ile KNN algoritm
 ### Görsel İçerik
 Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğrenme mimarilerini görselleştiren resimler de paylaşacağım.
 
-## Contributing
+## Katkıda Bulunmak
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoyu çatallayın ve bir çekme isteği oluşturun. Projeye bir yıldız vermeyi unutmayın! Tekrar teşekkürler!
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Projeyi Çatallayın
+2. Feature Branch'inizi oluşturun (`git checkout -b feature/"feature_ismi"`)
+3. Değişikliklerinizi commitleyin (`git commit -m 'Add some Feature'`)
+4. Branch'inizi pushlayın (`git push origin feature/"feature_ismi"`)
+5. Pull Request isteği oluşturun
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
