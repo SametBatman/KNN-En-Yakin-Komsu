@@ -1,6 +1,6 @@
 # Samet Batman 200757051 - Makine Öğrenmesi Projeleri
 
-Merhaba! Ben Samet Batman. Bilgisayar Mühendisliği öğrencisiyim ve makine öğrenmesi konusuna büyük bir ilgi duyuyorum. Bu GitHub sayfasında, makine öğrenmesi ile ilgili çalışmalarımı ve projelerimi paylaşıyorum.
+Merhaba! Ben Samet Batman. Bilgisayar Mühendisliği öğrencisiyim ve makine öğrenmesi konusunda ilgili çalışmalarımı ve projelerimi paylaşıyorum.
 
 
 ## Proje İçeriği
