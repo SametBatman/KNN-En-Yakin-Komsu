@@ -5,7 +5,7 @@
 Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini sağlayan bir yapay zeka alt dalıdır. Temel amacı, veriden öğrenme ve bu öğrenmeyi kullanarak tahminlerde veya karar verme süreçlerinde bulunmaktır. Makine öğrenmesi algoritmaları, verilere dayalı olarak kalıpları ve ilişkileri keşfetmek için kullanılır ve bu süreçte deneyimle kendini geliştirebilir.
 
 # Makine Öğrenmesi Türleri 
-<h2>Denetimli Öğrenme (Supervised Learning):</h2>h2>
+<h2>Denetimli Öğrenme (Supervised Learning):</h2>
 
 • Algoritma, etiketlenmiş bir veri seti ile eğitilir.
 
@@ -13,7 +13,7 @@ Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini s
 
 • Örnekler: Regresyon (Linear Regression), Sınıflandırma (Logistic Regression, Support Vector Machines).
 
-# Denetimsiz Öğrenme (Unsupervised Learning):
+<h2>Denetimsiz Öğrenme (Unsupervised Learning):</h2>
 
 • Algoritma, etiketlenmemiş veri seti ile çalışır.
 
@@ -21,7 +21,7 @@ Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini s
 
 • Örnekler: Kümeleme (K-means), Boyut İndirgeme (PCA).
 
-# Pekiştirmeli Öğrenme (Reinforcement Learning):
+<h2>Pekiştirmeli Öğrenme (Reinforcement Learning):</h2>
 
 • Algoritma, ödül ve ceza mekanizmasına dayalı olarak öğrenir.
 
