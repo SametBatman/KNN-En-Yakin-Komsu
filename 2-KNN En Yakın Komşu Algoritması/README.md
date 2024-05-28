@@ -71,6 +71,7 @@ K Parametresi: 𝐾 değeri, dikkate alınacak komşu sayısını belirler. Kü�
 •Daha Fazla Veri Toplama: Daha fazla ve çeşitli veri, modelin daha genelleştirilmiş ve doğru tahminler yapmasına yardımcı olabilir. Veri setiniz ne kadar büyük olursa, modeliniz o kadar iyi öğrenir.
 
 •Veriyi Düzenleme ve Temizleme: Veri setindeki gürültüyü, eksik veya yanlış verileri temizleyerek modelin performansını artırabilirsiniz. Ayrıca, gereksiz veya korelasyonu yüksek özellikleri kaldırarak modelin daha iyi öğrenmesini sağlayabilirsiniz.
-Modelin Eğitim Süresini Artırma: Modelin daha uzun süre eğitilmesi, daha karmaşık ilişkileri öğrenmesine ve daha iyi performans göstermesine yardımcı olabilir. Ancak, overfitting riskini de artırabilir, bu nedenle dikkatli olunmalıdır.
+
+•Modelin Eğitim Süresini Artırma: Modelin daha uzun süre eğitilmesi, daha karmaşık ilişkileri öğrenmesine ve daha iyi performans göstermesine yardımcı olabilir. Ancak, overfitting riskini de artırabilir, bu nedenle dikkatli olunmalıdır.
 
 •Çapraz Doğrulama ve Parametre Ayarı: Çapraz doğrulama kullanarak modelin genelleştirme yeteneğini değerlendirin ve modelin hiperparametrelerini ayarlayın.
