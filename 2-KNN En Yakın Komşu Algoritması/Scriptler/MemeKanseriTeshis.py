@@ -44,6 +44,12 @@ print(f'Accuracy: {accuracy * 100:.2f}%')  # Doğruluk yüzdesi ekrana yazdırı
 
 """
 Çıktı:Accuracy: 97.30%
+   mean radius  mean texture  ...  worst fractal dimension  target
+0        17.99         10.38  ...                  0.11890       0
+1        20.57         17.77  ...                  0.08902       0
+2        19.69         21.25  ...                  0.08758       0
+3        11.42         20.38  ...                  0.17300       0
+4        20.29         14.34  ...                  0.07678       0
 
 Bu kod, Wisconsin Meme Kanseri veri seti üzerinde KNN 
 sınıflandırmasını uygular. Veri seti, meme kanseri hücrelerinin 
