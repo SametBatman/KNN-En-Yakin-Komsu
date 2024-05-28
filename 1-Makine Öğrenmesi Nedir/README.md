@@ -104,8 +104,7 @@ Makine öğrenmesi ve derin öğrenme, yapay zekanın (AI) iki alt dalıdır ve 
 
 • Derin Öğrenme: Görüntü tanıma, doğal dil işleme, oyun oynama (örneğin, AlphaGo).
 
-
-#Sonuç
+#  Sonuç
 
 Makine öğrenmesi ve derin öğrenme, günümüzün en önemli yapay zeka teknolojilerindendir. Makine öğrenmesi, geniş bir veri seti ve çeşitli algoritmalar kullanarak öğrenme süreçlerini gerçekleştirirken, derin öğrenme özellikle büyük veri ve karmaşık problemler için derin sinir ağları kullanır. Her iki teknoloji de farklı uygulama alanlarında güçlü sonuçlar üretir ve gelecekteki yeniliklere kapı açar. 
 
