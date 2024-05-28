@@ -21,7 +21,7 @@ Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğre
 
 ## Katkıda Bulunmak
 
-Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoyu çatallayın ve bir çekme isteği oluşturun. Projeye bir yıldız vermeyi unutmayın! Tekrar teşekkürler!
+Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoya bir çekme isteği oluşturun. Projeye bir yıldız vermeyi unutmayın! Tekrar teşekkürler!
 
 1. Projeyi Çatallayın
 2. Feature Branch'inizi oluşturun (`git checkout -b feature/"feature_ismi"`)
