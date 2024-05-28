@@ -42,6 +42,7 @@ Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini s
 
 •Model İyileştirme: Modelin performansı optimize edilir ve gerekirse yeniden eğitilir.
 
+
 #Derin Öğrenme (DL) Nedir?
 
 Derin öğrenme, makine öğrenmesinin bir alt dalıdır ve çok katmanlı yapay sinir ağları kullanarak öğrenme sürecini gerçekleştirir. Derin öğrenme, genellikle büyük veri setleri ve yüksek hesaplama gücü gerektiren karmaşık problemler için kullanılır.
