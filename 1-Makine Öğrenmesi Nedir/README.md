@@ -76,7 +76,7 @@ Derin öğrenme, makine öğrenmesinin bir alt dalıdır ve çok katmanlı yapay
 
 # Makine Öğrenmesi ve Derin Öğrenme Arasındaki Farklar
 
-![machine-learning-vs-deep-learning](https://github.com/SametBatman/KNN-En-Yakin-Komsu/assets/160470839/d3d8253f-7956-4c7f-8dc3-524567e3a9ce)
+![1_temxwiP_H9lQbVVO5RCgPw](https://github.com/SametBatman/KNN-En-Yakin-Komsu/assets/160470839/ab830e12-8761-4298-988f-6c08b50c46e6)
 
 Makine öğrenmesi ve derin öğrenme, yapay zekanın (AI) iki alt dalıdır ve her ikisi de bilgisayarların deneyimden öğrenerek görevlerini geliştirmelerine olanak tanır. Fakat aralarında bazı temel farklar da bulunur:
 
