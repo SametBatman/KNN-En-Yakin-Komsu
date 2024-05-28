@@ -31,60 +31,67 @@ Makine öğrenmesi, bilgisayarların açıkça programlanmadan öğrenmelerini s
 
 # Makine Öğrenmesinin Adımları
 Veri Toplama: Makine öğrenmesi için veriler toplanır.
+
 Veri Ön İşleme: Veriler temizlenir ve analize uygun hale getirilir.
+
 Özellik Seçimi: Modelin eğitimi için önemli özellikler seçilir.
+
 Model Eğitimi: Seçilen algoritma ile model eğitilir.
+
 Model Değerlendirme: Modelin performansı test verisi ile değerlendirilir.
+
 Model İyileştirme: Modelin performansı optimize edilir ve gerekirse yeniden eğitilir.
 
-# Derin Öğrenme (DL) Nedir?
+#Derin Öğrenme (DL) Nedir?
 Derin öğrenme, makine öğrenmesinin bir alt dalıdır ve çok katmanlı yapay sinir ağları kullanarak öğrenme sürecini gerçekleştirir. Derin öğrenme, genellikle büyük veri setleri ve yüksek hesaplama gücü gerektiren karmaşık problemler için kullanılır.
 
-#  Derin Öğrenme Mimarıları
-# Yapay Sinir Ağları (Artificial Neural Networks, ANN):
+<h2>Derin Öğrenme Mimarıları</h2>
+
+<h3>Yapay Sinir Ağları (Artificial Neural Networks, ANN):</h3>
 
 • Temel derin öğrenme mimarisidir.
 
 • Bir girdi katmanı, bir veya daha fazla gizli katman ve bir çıktı katmanından oluşur.
 
-# Evrişimli Sinir Ağları (Convolutional Neural Networks, CNN):
+<h3>Evrişimli Sinir Ağları (Convolutional Neural Networks, CNN):</h3>
 
 • Özellikle görüntü işleme ve bilgisayarla görme alanında kullanılır.
 
 • Evrişim ve havuzlama katmanları içerir.
 
-#Tekrarlayan Sinir Ağları (Recurrent Neural Networks, RNN):
+<h3>Tekrarlayan Sinir Ağları (Recurrent Neural Networks, RNN):</h3>
 
 • Zaman serisi verileri ve dil işleme gibi sıralı verilerle çalışır.
 
 • Geri besleme döngüleri içerir.
 
-#Uzun Kısa Süreli Bellek Ağları (Long Short-Term Memory, LSTM):
+<h3>Uzun Kısa Süreli Bellek Ağları (Long Short-Term Memory, LSTM):</h3>
 
 • RNN'lerin bir türüdür ve uzun vadeli bağımlılıkları öğrenmek için tasarlanmıştır.
 
 • Bellek hücreleri içerir.
 
+
 # Makine Öğrenmesi ve Derin Öğrenme Arasındaki Farklar
-# Veri Miktarı:
+<h2> Veri Miktarı:</h2>
 
 • Makine Öğrenmesi: Daha az miktarda veri ile çalışabilir.
 
 • Derin Öğrenme: Büyük miktarda veri gerektirir.
 
-# Hesaplama Gücü:
+<h2>Hesaplama Gücü:</h2>
 
 • Makine Öğrenmesi: Daha az hesaplama gücü gerektirir.
 
 • Derin Öğrenme: Yüksek hesaplama gücü ve GPU'lar gerektirir.
 
-# Özellik Mühendisliği:
+<h2>Özellik Mühendisliği:</h2>
 
 • Makine Öğrenmesi: Özelliklerin elle çıkarılması ve seçilmesi gerekir.
 
 • Derin Öğrenme: Özellikleri kendisi otomatik olarak öğrenir.
 
-# Uygulama Alanları:
+<h2> Uygulama Alanları:</h2>
 
 • Makine Öğrenmesi: Finansal tahminler, müşteri segmentasyonu, tahmine dayalı bakım.
 
