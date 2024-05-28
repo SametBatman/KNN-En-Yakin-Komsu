@@ -14,7 +14,7 @@ Diğer seçenekleri varsayılan değerlerde bırakabilirsiniz.
 "Install Now" düğmesine tıklayın ve kurulumun tamamlanmasını bekleyin.
 
 **Kurulumun Doğrulanması**
-Başlat menüsünü açın ve **"Komut İstemi"**ni arayın.
+Başlat menüsünü açın ve ** "Komut İstemi" **ni arayın.
 Komut isteminde "python3 --version" yazın ve Enter tuşuna basın.
 Python sürümünün doğru şekilde kurulduğunu gösteren bir mesaj görmelisiniz.
 
