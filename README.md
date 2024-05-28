@@ -23,11 +23,11 @@ Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğre
 
 Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoya bir çekme isteği oluşturun. Projeye bir yıldız vermeyi unutmayın! Tekrar teşekkürler!
 
-1. Projeyi Çatallayın
-2. Feature Branch'inizi oluşturun (`git checkout -b feature/"feature_ismi"`)
-3. Değişikliklerinizi commitleyin (`git commit -m 'Add some Feature'`)
-4. Branch'inizi pushlayın (`git push origin feature/"feature_ismi"`)
-5. Pull Request isteği oluşturun
+1. **Projeyi Fork'layın**
+2. **Feature Branch'inizi oluşturun** (`git checkout -b feature/"feature_ismi"`)
+3. **Değişikliklerinizi commitleyin** (`git commit -m 'Add some Feature'`)
+4. **Branch'inizi pushlayın** (`git push origin feature/"feature_ismi"`)
+5. **Pull Request isteği oluşturun**
 
 
 ## İletişim
