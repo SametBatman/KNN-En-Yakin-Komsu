@@ -29,8 +29,6 @@ Bunu daha iyi hale getirecek bir öneriniz varsa, lütfen repoya bir çekme iste
 4. Branch'inizi pushlayın (`git push origin feature/"feature_ismi"`)
 5. Pull Request isteği oluşturun
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## İletişim
 Eğer herhangi bir sorunuz veya öneriniz olursa, benimle iletişime geçmekten çekinmeyin:
