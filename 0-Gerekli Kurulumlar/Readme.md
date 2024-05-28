@@ -3,7 +3,7 @@
 
 **Python'u İndirin:**
 
-•Resmi Python web sitesine gidin: https://www.python.org/downloads/  en son Python 3 sürümünü seçin.
+Resmi Python web sitesine gidin: https://www.python.org/downloads/  en son Python 3 sürümünü seçin.
 64 bit işletim sistemi kullanıyorsanız, Windows x86-64 dosyasını indirin. 32 bit işletim sistemi kullanıyorsanız, Windows x86 dosyasını indirin.
 İndirme işlemi tamamlandıktan sonra, kurulum dosyasını çalıştırın.
 
