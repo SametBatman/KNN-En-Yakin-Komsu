@@ -18,7 +18,7 @@ Başlat menüsünü açın ve **"Komut İstemi"**ni arayın.
 Komut isteminde "python3 --version" yazın ve Enter tuşuna basın.
 Python sürümünün doğru şekilde kurulduğunu gösteren bir mesaj görmelisiniz.
 
-#KNN İçin Gerekli Paket ve Kütüphanelerin Kurulumu
+# KNN İçin Gerekli Paket ve Kütüphanelerin Kurulumu
 
 K-En Yakın Komşu (KNN) algoritmasını kullanmak için genellikle scikit-learn kütüphanesi kullanılır. Bu kütüphane, Python'da makine öğrenimi modelleri oluşturmak için yaygın olarak kullanılan bir kütüphanedir ve KNN gibi çeşitli algoritmaları içerir.
 
