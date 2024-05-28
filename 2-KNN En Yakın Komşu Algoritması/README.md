@@ -19,8 +19,7 @@ KNN, bir veri noktasının sınıfını veya değerini belirlerken, o noktaya en
 
 # Temel Prensipler:
 Mesafe Ölçümü: KNN, genellikle veri noktaları arasındaki mesafeyi ölçmek için Öklidyen mesafeyi kullanır. Ancak, Manhattan veya Minkowski mesafeleri gibi diğer mesafe ölçümleri de kullanılabilir.
-K Parametresi: 
-𝐾 değeri, dikkate alınacak komşu sayısını belirler. Küçük bir K değeri, modelin fazla uyum yapmasına (overfitting) neden olabilirken, büyük bir 𝐾 değeri ise modelin yeterince karmaşık olmamasına (underfitting) yol açabilir.
+K Parametresi: 𝐾 değeri, dikkate alınacak komşu sayısını belirler. Küçük bir K değeri, modelin fazla uyum yapmasına (overfitting) neden olabilirken, büyük bir 𝐾 değeri ise modelin yeterince karmaşık olmamasına (underfitting) yol açabilir.
 
 # KNN Algoritması Nasıl Çalışır?
 **Adım Adım İşleyiş:**
@@ -28,7 +27,8 @@ K Parametresi:
 •KNN (K-Nearest Neighbors) Algoritması iki temel değer üzerinden tahmin yapar;
 
 •Distance (Uzaklık): Tahmin edilecek noktanın diğer noktalara uzaklığı hesaplanır. Bunun için Minkowski uzaklık hesaplama fonksiyonu kullanılır.
-K (komuşuluk sayısı): En yakın kaç komşu üzerinden hesaplama yapılacağını söyleriz. K değeri sonucu direkt etkileyecektir. K 1 olursa overfit etme olasılığı çok yüksek olacaktır. Çok büyük olursa da çok genel sonuçlar verecektir. Bu sebeple optimum K değerini tahmin etmek problemin asıl konusu olarak karşımızda durmaktadır. K değerinin önemini aşağıdaki grafik çok güzel bir şekilde göstermektedir. Eğer K=3 ( düz çizginin olduğu yer) seçersek sınıflandırma algoritması ? işareti ile gösterilen noktayı, kırmızı üçgen sınıfı olarak tanımlayacaktır. Fakat K=5 (kesikli çizginin olduğu alan) seçersek sınıflandırma algoritması, aynı noktayı mavi kare sınıfı olarak tanımlayacaktır.
+
+•K (komuşuluk sayısı): En yakın kaç komşu üzerinden hesaplama yapılacağını söyleriz. K değeri sonucu direkt etkileyecektir. K 1 olursa overfit etme olasılığı çok yüksek olacaktır. Çok büyük olursa da çok genel sonuçlar verecektir. Bu sebeple optimum K değerini tahmin etmek problemin asıl konusu olarak karşımızda durmaktadır. K değerinin önemini aşağıdaki grafik çok güzel bir şekilde göstermektedir. Eğer K=3 ( düz çizginin olduğu yer) seçersek sınıflandırma algoritması ? işareti ile gösterilen noktayı, kırmızı üçgen sınıfı olarak tanımlayacaktır. Fakat K=5 (kesikli çizginin olduğu alan) seçersek sınıflandırma algoritması, aynı noktayı mavi kare sınıfı olarak tanımlayacaktır.
 
 ![23-1024x576](https://github.com/SametBatman/KNN-En-Yakin-Komsu/assets/160470839/851c7e0e-fba9-4552-b5d1-9d329931a3fd)
 
