@@ -23,5 +23,6 @@ Konu anlatımını desteklemek için, makine öğrenmesi süreci ve derin öğre
 Eğer herhangi bir sorunuz veya öneriniz olursa, benimle iletişime geçmekten çekinmeyin:
 - **E-posta**: softwarefade@gmail.com
 - **LinkedIn**: [Samet Batman](https://www.linkedin.com/in/samedbatman/)
+- **WebSite**: [Samet Batman](https://www.blog.fadesoftware.net)
 
 Bu sayfayı ziyaret ettiğiniz için teşekkür ederim.
