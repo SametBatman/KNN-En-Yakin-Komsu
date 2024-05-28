@@ -28,4 +28,4 @@ Bu komut, Python'un pip paket yöneticisi aracılığıyla scikit-learn kütüph
 
 Ek olarak genellikle veri manipülasyonu ve görselleştirmesi için pandas ve matplotlib gibi başka kütüphaneler de kullanılır. Bunları da yüklemek istiyorsanız, aşağıdaki komutları kullanabilirsiniz:
 
-pip install pandas matplotlib
+<code>pip install pandas matplotlib </code>
